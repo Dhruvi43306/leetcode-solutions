@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
