@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## String
@@ -81,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
