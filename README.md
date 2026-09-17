@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
