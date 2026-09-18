@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
