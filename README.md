@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0050-powx-n) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
