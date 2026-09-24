@@ -24,7 +24,7 @@ class Solution {
             a[k--] = nums2[j--];
         }
         int total = m+n;
-       if(total % 2 == 1){
+        if(total % 2 == 1){
             return a[total/2];
        }
       
