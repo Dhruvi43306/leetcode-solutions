@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
