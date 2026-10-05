@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhruvi43306/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
