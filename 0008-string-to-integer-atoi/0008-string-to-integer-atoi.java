@@ -8,8 +8,6 @@ class Solution {
         boolean signFound = false;
 
         while (i < s.length()) {
-
-            // Leading spaces only
             if (s.charAt(i) == ' ') {
                 if (signFound || digitStarted) {
                     break;
@@ -18,8 +16,6 @@ class Solution {
                 i++;
                 continue;
             }
-
-            // Sign
             else if (s.charAt(i) == '-' || s.charAt(i) == '+') {
 
                 if (signFound || digitStarted) {
@@ -38,12 +34,8 @@ class Solution {
 
             // Digit
             else if (Character.isDigit(s.charAt(i))) {
-
                 digitStarted = true;
-
                 int digit = s.charAt(i) - '0';
-
-                // Check overflow BEFORE multiplication
                 if (sign == 1 &&
                     ans > (Integer.MAX_VALUE - digit) / 10) {
                     return Integer.MAX_VALUE;
